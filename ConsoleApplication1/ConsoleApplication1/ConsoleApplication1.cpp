@@ -6,6 +6,7 @@
 using namespace std;
 int main()
 {
+	cout << "孙子，我是你爷爷" << endl;
 	cout << "you are so clever" << endl;
     std::cout << "Hello World!\n"; 
 }
